@@ -1,0 +1,17 @@
+commit 734d744c3e32d7a6d3fda8a03e3011db9c6eba76
+Author: Saul <saulesteban0118@gmail.com>
+Date:   Mon May 24 11:52:18 2021 -0500
+
+    se borro cuerpo de pagina
+
+commit bd56be2cdfa0439233b3e21a68b6741f83e44241
+Author: Saul <saulesteban0118@gmail.com>
+Date:   Mon May 24 11:45:56 2021 -0500
+
+    Borre demas logos
+
+commit 94c79198aa0cf18ea52541201fa86fb6cff41e4e
+Author: Saul <saulesteban0118@gmail.com>
+Date:   Mon May 24 11:34:09 2021 -0500
+
+    Iniciamos
