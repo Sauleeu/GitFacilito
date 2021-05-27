@@ -11,9 +11,9 @@ body{
     margin: 0;
 }
 
-h1,h2,h3,h4,h5,h6{
+/*h1,h2,h3,h4,h5,h6{
     font-family: 'Raleway', sans-serif;
-}
+}*/
 
 .content h1{
     font-family: 'Kaushan Script', cursive;
@@ -106,17 +106,18 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .infoContent .block h3{
-    /*font-family: 'Signika Negative', sans-serif;*/
     font-size: 25px;
     margin: 5px 0 10px 0;
-    /*text-transform: uppercase;*/
+    text-transform: uppercase;
     letter-spacing: 5px;
+    color: blue;
+    text-shadow: 2px 2px 3px white;
 }
 
-.infoContent .block h3 a {
+/*.infoContent .block h3 a {
     color: #ffffff;
     text-shadow: 2px 2px 3px black;
-}
+}*/
 
 .infoContent .block{
     padding: 8px;
@@ -267,9 +268,9 @@ footer ul li a:hover{
 
 /* Estilos de las clases*/
 
-.clase h3 a {
+/*.clase h3 a {
     color: #FF5722 !important;
-}
+}*/
 
 /*Animación*/
 @keyframes float {
